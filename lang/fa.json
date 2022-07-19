@@ -1,6 +1,10 @@
 {
   "register": "ثبت نام",
+  "Register": "ثبت نام",
   "login": "ورود",
+  "Login": "ورود",
   "log in": "ورود",
-  "dashboard": "داشبورد"
+  "Log in": "ورود",
+  "dashboard": "داشبورد",
+  "Dashboard": "داشبورد"
 }
