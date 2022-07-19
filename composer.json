@@ -1,18 +1,19 @@
 {
-    "name": "abasnikzad/laravel-persian",
-    "description": "persian Languages translation for Laravel 6",
+    "name": "mnaderian/laravel-persian-localization",
+    "description": "A localization for Laravel in Persian (Farsi)",
     "keywords": [
         "laravel",
         "languages",
         "lpm",
         "lang",
-        "persian"
+        "persian",
+        "farsi"
     ],
     "license": "MIT",
     "authors": [
         {
-            "name": "Abas Nikzad",
-            "email": "nikzad@avasam.ir"
+            "name": "Mahdi Naderian",
+            "email": "naderian.mahdi@gmail.com"
         }
     ]
 }
