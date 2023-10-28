@@ -1,7 +1,7 @@
 # ترجمه ی زبان فارسی برای لاراول
 ## برای نصب مراحل زیر را انجام دهید
 * با استفاده از کامپوزر میتوانید این پکیج را نصب کنید :
-* composer require mnaderian/laravel-persian-localization  
+* `composer require mnaderian/laravel-persian-localization`
 
 ## روش دوم نصب
 * میتوانید همین ریپوزیتوری را بصورت zip دانلود کنید و پوشه lang را در پروژه کپی کنید.
